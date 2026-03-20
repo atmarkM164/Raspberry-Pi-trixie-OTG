@@ -3,12 +3,20 @@
 # 📄 技術手順書
 
 このリポジトリではRaspberry Pi+trixie+OTGに使うImageの作成手順書を公開しています。
+Raspberry Pi5，4，Zero2W（ZeroW）全対応（ZeroWは32bit版を使用して下さい）
+特徴
+　VNC画面の解像度を標準では対応していない1600ｘ900に設定できます
+  OTG接続に対応しています
+  wiringpiの実装方法を記載しています。
+  Raspberry Pi5以外でフリーズした時にshutdoenできるスクリプトを実装できるようにしています
+
+詳しく書きすぎて、30ページ以上の大きな手順書になっていますのでご注意を。
 
 ---
 
 ## 📥 ダウンロード
 
-👉 [PDFはこちら](./docs/manual.pdf)
+👉[ [PDFはこちら](./docs/manual.pdf)](https://github.com/atmarkM164/Raspberry-Pi-trixie-OTG/blob/main/trixie_otg_20260320_V8.pdf)
 
 ---
 
