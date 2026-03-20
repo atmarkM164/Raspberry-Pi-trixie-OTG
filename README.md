@@ -24,7 +24,7 @@ Raspberry Pi5，4，Zero2W（ZeroW）全対応（ZeroWは32bit版を使用して
 
 本資料では以下を解説しています：
 
-- 環境構築：Raspberry Pi 5,4,Zsro2W,ZeroW
+- 環境構築：Raspberry Pi 5,4,Zero2W,ZeroW
 -  PC側はWindows11
 
 
