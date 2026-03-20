@@ -30,7 +30,7 @@ Raspberry Pi5，4，Zero2W（ZeroW）全対応（ZeroWは32bit版を使用して
 
 ## 🔗 Qiita記事
 
-👉 https://qiita.com/ユーザー名/items/記事ID
+👉 [https://qiita.com/ユーザー名/items/記事ID](https://qiita.com/M164/private/512f2822de27fe98ec57)
 
 ---
 
