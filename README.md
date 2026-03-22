@@ -14,9 +14,9 @@ Raspberry Pi5，4，Zero2W（ZeroW）全対応（ZeroWは32bit版を使用して
 
 ---
 
-## 📥 ダウンロード
+## 📥 ダウンロード（最新版）
 
-👉[ [PDFはこちら](./docs/manual.pdf)](https://github.com/atmarkM164/Raspberry-Pi-trixie-OTG/blob/main/trixie_otg_20260320_V9.pdf)
+👉[ [PDFはこちら](./docs/manual.pdf)](https://github.com/atmarkM164/Raspberry-Pi-trixie-OTG/blob/main/trixie_otg_20260322_v7.pdf)
 
 ---
 
