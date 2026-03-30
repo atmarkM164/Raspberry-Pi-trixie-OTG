@@ -18,7 +18,7 @@ Raspberry Pi5，4，Zero2W（ZeroW）全対応（ZeroWは32bit版を使用して
 
 👉[ [PDFはこちら](./docs/manual.pdf)](https://github.com/atmarkM164/Raspberry-Pi-trixie-OTG/blob/main/trixie_otg_20260322_v7.pdf)
 
----
+---(21) 各機種の起動OSビット数と config.txt の設定について　を追加しました
 
 ## 📝 概要
 
